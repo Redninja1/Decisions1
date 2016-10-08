@@ -1,0 +1,6 @@
+c:\users\james\documents\visual studio 2015\Projects\Decisions1\Decisions1\bin\Debug\Decisions1.exe.config
+c:\users\james\documents\visual studio 2015\Projects\Decisions1\Decisions1\bin\Debug\Decisions1.exe
+c:\users\james\documents\visual studio 2015\Projects\Decisions1\Decisions1\bin\Debug\Decisions1.pdb
+c:\users\james\documents\visual studio 2015\Projects\Decisions1\Decisions1\obj\Debug\Decisions1.csprojResolveAssemblyReference.cache
+c:\users\james\documents\visual studio 2015\Projects\Decisions1\Decisions1\obj\Debug\Decisions1.exe
+c:\users\james\documents\visual studio 2015\Projects\Decisions1\Decisions1\obj\Debug\Decisions1.pdb
